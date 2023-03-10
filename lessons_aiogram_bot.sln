@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lessons_aiogram_bot", "lessons_aiogram_bot\lessons_aiogram_bot.pyproj", "{C2910507-759D-4AD7-AAEA-067FB1967179}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2910507-759D-4AD7-AAEA-067FB1967179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2910507-759D-4AD7-AAEA-067FB1967179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2910507-759D-4AD7-AAEA-067FB1967179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2910507-759D-4AD7-AAEA-067FB1967179}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {372092F9-D3B3-4C14-BC26-FC00A4AD5B18}
+	EndGlobalSection
+EndGlobal
